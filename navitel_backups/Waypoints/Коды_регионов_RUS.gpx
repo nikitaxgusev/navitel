@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="2"
+  creator="Basov Andrey http://newnavitel.blogspot.ru/">
+<metadata>
+<time>2014-11-27T06:43:10Z</time>
+<bounds minlat="42.969500000" minlon="20.522900000" maxlat="68.959300000" maxlon="177.515600000"/>
+</metadata>
+<wpt lat="56.837700000" lon="60.606100000">
+  <name>66 96 166 196 Екатеринбург</name>
+  <desc>Свердловская область, Уральский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="44.611500000" lon="40.102100000">
+  <name>01 Майкоп</name>
+  <desc>Республика Адыгея, Южный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="54.765300000" lon="56.022700000">
+  <name>02 102 Уфа</name>
+  <desc>Республика Башкортостан, Приволжский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="51.824200000" lon="107.601700000">
+  <name>03 Улан-Удэ</name>
+  <desc>Республика Бурятия, Сибирский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="51.958600000" lon="85.968700000">
+  <name>04 Горно-Алтайск</name>
+  <desc>Республика Алтай, Сибирский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="42.969500000" lon="47.491600000">
+  <name>05 Махачкала</name>
+  <desc>Республика Дагестан, Южный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="43.170600000" lon="44.814300000">
+  <name>06 Магас</name>
+  <desc>Республика Ингушетия, Южный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="43.477500000" lon="43.596200000">
+  <name>07 Нальчик</name>
+  <desc>Кабардино-Балкарская Республика, Южный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="46.318200000" lon="44.258200000">
+  <name>08 Элиста</name>
+  <desc>Республика Калмыкия, Южный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="44.213800000" lon="42.044200000">
+  <name>09 Черкесск</name>
+  <desc>Республика Карачаево-Черкессия, Южный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="61.787400000" lon="34.354400000">
+  <name>10 Петрозаводск</name>
+  <desc>Республика Карелия, Северо-Западный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="61.663900000" lon="50.816000000">
+  <name>11 Сыктывкар</name>
+  <desc>Республика Коми, Северо-Западный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="56.640300000" lon="47.871500000">
+  <name>12 Йошкар-Ола</name>
+  <desc>Республика Марий Эл, Приволжский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="54.189600000" lon="45.177300000">
+  <name>13 113 Саранск</name>
+  <desc>Республика Мордовия, Приволжский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="62.033000000" lon="129.743900000">
+  <name>14 Якутск</name>
+  <desc>Республика Саха (Якутия), Дальневосточный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="43.023300000" lon="44.672200000">
+  <name>15 Владикавказ</name>
+  <desc>Республика Северная Осетия — Алания, Северо-Кавказский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="55.787900000" lon="49.123400000">
+  <name>16 116 Казань</name>
+  <desc>Республика Татарстан, Приволжский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="51.717000000" lon="94.449800000">
+  <name>17 Кызыл</name>
+  <desc>Республика Тыва, Сибирский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="56.833300000" lon="53.183400000">
+  <name>18 Ижевск</name>
+  <desc>Удмуртская Республика, Приволжский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="53.716000000" lon="91.416500000">
+  <name>19 Абакан</name>
+  <desc>Республика Хакасия, Сибирский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="56.130900000" lon="47.289100000">
+  <name>21 121 Чебоксары</name>
+  <desc>Чувашская Республика, Приволжский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="53.355300000" lon="83.769700000">
+  <name>22 Барнаул</name>
+  <desc>Алтайский край, Сибирский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="45.040400000" lon="38.976100000">
+  <name>23 93 123 Краснодар</name>
+  <desc>Краснодарский край, Южный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="56.047000000" lon="92.889900000">
+  <name>24 84 88 124 Красноярск</name>
+  <desc>Красноярский край, Сибирский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="43.133000000" lon="131.899900000">
+  <name>25 125 725 Владивосток</name>
+  <desc>Приморский край, Дальневосточный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="45.049400000" lon="41.983800000">
+  <name>26 126 Ставрополь</name>
+  <desc>Ставропольский край, Южный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="48.505600000" lon="135.068100000">
+  <name>27 Хабаровск</name>
+  <desc>Хабаровский край, Дальневосточный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="50.289600000" lon="127.557400000">
+  <name>28 Благовещенск</name>
+  <desc>Амурская область, Дальневосточный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="64.548200000" lon="40.561900000">
+  <name>29 Архангельск</name>
+  <desc>Архангельская область, Северо-Западный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="46.357900000" lon="48.044600000">
+  <name>30 Астрахань</name>
+  <desc>Астраханская область, Южный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="50.596300000" lon="36.601500000">
+  <name>31 Белгород</name>
+  <desc>Белгородская область, Центральный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="53.264100000" lon="34.417500000">
+  <name>32 Брянск</name>
+  <desc>Брянская область, Центральный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="56.138300000" lon="40.399800000">
+  <name>33 Владимир</name>
+  <desc>Владимирская область, Центральный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="48.709200000" lon="44.520000000">
+  <name>34 134 Волгоград</name>
+  <desc>Волгоградская область, Южный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="59.217700000" lon="39.896600000">
+  <name>35 Вологда</name>
+  <desc>Вологодская область, Северо-Западный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="51.674200000" lon="39.210400000">
+  <name>36 136 Воронеж</name>
+  <desc>Воронежская область, Центральный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="56.998600000" lon="40.973700000">
+  <name>37 Иваново</name>
+  <desc>Ивановская область, Центральный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="52.286400000" lon="104.302500000">
+  <name>38 85 138 Иркутск</name>
+  <desc>Иркутская область, Сибирский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="54.709200000" lon="20.522900000">
+  <name>39 91 Калининград</name>
+  <desc>Калининградская область, Северо-Западный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="54.552600000" lon="36.288400000">
+  <name>40 Калуга</name>
+  <desc>Калужская область, Центральный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="53.023000000" lon="158.646900000">
+  <name>41 Петропавловск-Камчатский</name>
+  <desc>Камчатский край, Дальневосточный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="55.343700000" lon="86.061900000">
+  <name>42 142 Кемерово</name>
+  <desc>Кемеровская область, Сибирский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="58.603300000" lon="49.657400000">
+  <name>43 Киров</name>
+  <desc>Кировская область, Приволжский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="57.767600000" lon="40.927300000">
+  <name>44 Кострома</name>
+  <desc>Костромская область, Центральный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="55.466000000" lon="65.344400000">
+  <name>45 Курган</name>
+  <desc>Курганская область, Уральский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="51.719500000" lon="36.164200000">
+  <name>46 Курск</name>
+  <desc>Курская область, Центральный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="59.930700000" lon="30.360200000">
+  <name>47 Санкт-Петербург</name>
+  <desc>Ленинградская область, Северо-Западный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="52.616200000" lon="39.597500000">
+  <name>48 Липецк</name>
+  <desc>Липецкая область, Центральный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="59.563000000" lon="150.801500000">
+  <name>49 Магадан</name>
+  <desc>Магаданская область, Дальневосточный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="55.754300000" lon="37.620000000">
+  <name>50 90 150 190 750 790 Москва</name>
+  <desc>Московская область, Центральный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="68.959300000" lon="33.084600000">
+  <name>51 Мурманск</name>
+  <desc>Мурманская область, Северо-Западный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="56.296600000" lon="43.936700000">
+  <name>52 152 Нижний Новгород</name>
+  <desc>Нижегородская область, Приволжский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="58.523800000" lon="31.266000000">
+  <name>53 Великий Новгород</name>
+  <desc>Новгородская область, Северо-Западный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="55.008800000" lon="82.936500000">
+  <name>54 154 Новосибирск</name>
+  <desc>Новосибирская область, Сибирский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="54.985000000" lon="73.368700000">
+  <name>55 Омск</name>
+  <desc>Омская область, Сибирский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="51.766300000" lon="55.100600000">
+  <name>56 Оренбург</name>
+  <desc>Оренбургская область, Приволжский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="52.967900000" lon="36.062300000">
+  <name>57 Орёл</name>
+  <desc>Орловская область, Центральный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="53.200500000" lon="45.018500000">
+  <name>58 Пенза</name>
+  <desc>Пензенская область, Приволжский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="58.000400000" lon="56.314200000">
+  <name>59 81 159 Пермь</name>
+  <desc>Пермский край, Приволжский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="57.817200000" lon="28.334600000">
+  <name>60 Псков</name>
+  <desc>Псковская область, Северо-Западный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="47.236100000" lon="39.700400000">
+  <name>61 161 Ростов-на-Дону</name>
+  <desc>Ростовская область, Южный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="54.609600000" lon="39.711800000">
+  <name>62 Рязань</name>
+  <desc>Рязанская область, Центральный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="53.203100000" lon="50.138600000">
+  <name>63 163 Самара</name>
+  <desc>Самарская область, Приволжский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="51.533600000" lon="46.015400000">
+  <name>64 164 Саратов</name>
+  <desc>Саратовская область, Приволжский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="46.966500000" lon="142.732400000">
+  <name>65 Южно-Сахалинск</name>
+  <desc>Сахалинская область, Дальневосточный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="54.790400000" lon="32.051000000">
+  <name>67 Смоленск</name>
+  <desc>Смоленская область, Центральный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="52.716800000" lon="41.434300000">
+  <name>68 Тамбов</name>
+  <desc>Тамбовская область, Центральный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="56.858800000" lon="35.916700000">
+  <name>69 169 Тверь</name>
+  <desc>Тверская область, Центральный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="56.500200000" lon="84.991900000">
+  <name>70 Томск</name>
+  <desc>Томская область, Сибирский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="54.205200000" lon="37.617900000">
+  <name>71 Тула</name>
+  <desc>Тульская область, Центральный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="57.160800000" lon="65.525400000">
+  <name>72 Тюмень</name>
+  <desc>Тюменская область, Уральский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="54.318200000" lon="48.366100000">
+  <name>73 173 Ульяновск</name>
+  <desc>Ульяновская область, Приволжский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="55.165000000" lon="61.434500000">
+  <name>74 174 Челябинск</name>
+  <desc>Челябинская область, Уральский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="52.048400000" lon="113.458100000">
+  <name>75 80 Чита</name>
+  <desc>Забайкальский край, Сибирский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="57.626400000" lon="39.883900000">
+  <name>76 Ярославль</name>
+  <desc>Ярославская область, Центральный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="55.754300000" lon="37.620100000">
+  <name>77 97 99 177 197 199 777 797 Москва</name>
+  <desc>г. Москва, Центральный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="59.930700000" lon="30.360900000">
+  <name>78 98 178 Санкт-Петербург</name>
+  <desc>г. Санкт-Петербург, Северо-Западный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="48.801500000" lon="132.901700000">
+  <name>79 Биробиджан</name>
+  <desc>Еврейская автономная область, Дальневосточный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="44.952100000" lon="34.102600000">
+  <name>82 Симферополь</name>
+  <desc>Республика Крым, Крымский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="67.671500000" lon="53.110000000">
+  <name>83 Нарьян-Мар</name>
+  <desc>Ненецкий автономный округ, Северо-Западный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="61.009900000" lon="69.039200000">
+  <name>86 186 Ханты-Мансийск</name>
+  <desc>Ханты-Мансийский автономный округ Югра, Уральский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="64.733200000" lon="177.515600000">
+  <name>87 Анадырь</name>
+  <desc>Чукотский автономный округ, Дальневосточный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="66.532400000" lon="66.602500000">
+  <name>89 Салехард</name>
+  <desc>Ямало-Ненецкий автономный округ, Уральский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="44.614800000" lon="33.525000000">
+  <name>92 Севастополь</name>
+  <desc>г. Севастополь, Крымский ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="45.616800000" lon="63.314600000">
+  <name>94 Байконур </name>
+  <desc>г. Байконур </desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+<wpt lat="43.317400000" lon="45.683700000">
+  <name>95 Грозный</name>
+  <desc>Чеченская Республика, Южный ФО</desc><NavitelWaypointType>70</NavitelWaypointType>
+</wpt>
+</gpx>
